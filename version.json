@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url_descarga": "https://github.com/Joesnick/VerificadorEventos-Releases/releases/download/v1.0.0/ContaClick360-VerificadorEventos.zip",
-  "novedades": "Activación de licencias contra Firebase. Cifrado Fernet del caché local. Plan + multi-dispositivo + NITs autorizados."
+  "version": "1.0.1",
+  "url_descarga": "https://github.com/Joesnick/VerificadorEventos-Releases/releases/download/v1.0.1/ContaClick360-VerificadorEventos.zip",
+  "novedades": "Nuevo esquema de planes (suscripcion_anual, contador_basico/premium/full, ilimitado) con aliases retro-compat. Header con plan/NITs clickeable y botón ❓ Ayuda + atajo F1. Bloqueo de exportación cuando el NIT receptor excede el cap del plan."
 }
