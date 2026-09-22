@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url_descarga": "https://github.com/Joesnick/VerificadorEventos-Releases/releases/download/v1.0.2/ContaClick360-VerificadorEventos.zip",
-  "novedades": "Soporte para enlaces protegidos de Outlook (SafeLinks) al pegar el AuthToken de la DIAN. Pegado como texto plano con limpieza de caracteres invisibles, comillas y guiones tipográficos. Auto-actualizador operativo: descarga e instala nuevas versiones desde GitHub solo por HTTPS, con la versión mostrada dinámicamente. El campo de NIT ahora acepta cédulas de persona natural (6 a 8 dígitos), que antes se descartaban. Validación más estricta del AuthToken y mayor estabilidad de la ventana en Windows con Python 3.14. Endurecimiento del control de licencias (caché cifrada por equipo y rotación de dispositivos)."
+  "version": "1.0.3",
+  "url_descarga": "https://github.com/Joesnick/VerificadorEventos-Releases/releases/download/v1.0.3/ContaClick360-VerificadorEventos.zip",
+  "novedades": "Filtrado estricto de la bandeja para procesar únicamente Facturas Electrónicas de Venta con método de pago Crédito, descartando Notas Crédito, Notas Débito y documentos de contado. Mejoras en el empaquetado: inclusión explícita de los módulos del modo bandeja y ejecución sin ofuscación cuando PyArmor no está disponible. Documentación actualizada con el comportamiento de los filtros."
 }
